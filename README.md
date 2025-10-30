@@ -62,7 +62,3 @@ Statistical validation of observed differences
 
 Jale Qasimova
 
-
----
-
-Əgər istəyirsənsə, mən bunu Azərbaycan dilində də professional qısa versiyaya çevirə bilərəm ki, həm GitHub-a, həm də təqdimata rahat olsun. İstəyirsən?
